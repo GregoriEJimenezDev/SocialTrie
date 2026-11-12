@@ -1,0 +1,1 @@
+"""SocialTrie console application."""
